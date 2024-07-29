@@ -1,1 +1,1 @@
-Contains code for geenrating random password
+Contains code for generating random password
